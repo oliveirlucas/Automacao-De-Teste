@@ -76,4 +76,4 @@ Cenario 4: Cadastro com sucesso
 - E clicar em criar
 - Então visualizo a mensagem: 2 errors proibiu que este usuário fosse salvo:
 
-[Link do Git do cenario 4 = https://github.com/loorao/TesteAnalistaErro]
+[Link do Git do cenario 4 = https://github.com/oliveirlucas/TesteAnalistaErro]
